@@ -17,7 +17,6 @@ com\portfolio\portfolioproyect\Security\Service\UsuarioService.class
 com\portfolio\portfolioproyect\Security\Repository\iUsuarioRepository.class
 com\portfolio\portfolioproyect\Security\Repository\iRolRepository.class
 com\portfolio\portfolioproyect\Security\MainSecurity.class
-com\portfolio\portfolioproyect\WebConfig.class
 com\portfolio\portfolioproyect\Entity\Educacion.class
 com\portfolio\portfolioproyect\Service\SHys.class
 com\portfolio\portfolioproyect\Service\SEducacion.class
