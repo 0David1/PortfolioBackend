@@ -1,4 +1,5 @@
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Dto\dtoEducacion.java
+C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Entity\Experiencia.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Entity\Educacion.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Security\Repository\iRolRepository.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Security\Service\UserDetailsImpl.java
@@ -9,14 +10,18 @@ C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\p
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Security\Service\UsuarioService.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Security\Service\RolService.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Repository\RHys.java
+C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Dto\dtoExperiencia.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Dto\dtoPersona.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Entity\Persona.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Dto\dtoHys.java
+C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Service\SvExperiencia.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Security\Enums\RolNombre.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\PortfolioproyectApplication.java
+C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Repository\RExperiencia.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Security\Entity\Usuario.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Security\MainSecurity.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Security\Controller\AuthController.java
+C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Controller\CExperiencia.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Controller\CEducacion.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Security\Dto\JwtDto.java
 C:\Users\Usuario\Documents\NetBeansProjects\portfolioproyect\src\main\java\com\portfolio\portfolioproyect\Security\Dto\NuevoUsuario.java

@@ -1,6 +1,7 @@
 com\portfolio\portfolioproyect\Security\jwt\JwtProvider.class
 com\portfolio\portfolioproyect\Security\jwt\JwtTokenFilter.class
 com\portfolio\portfolioproyect\Controller\PersonaController.class
+com\portfolio\portfolioproyect\Service\SvExperiencia.class
 com\portfolio\portfolioproyect\Repository\RHys.class
 com\portfolio\portfolioproyect\Security\Entity\Usuario.class
 com\portfolio\portfolioproyect\Repository\IPersonaRepository.class
@@ -8,6 +9,7 @@ com\portfolio\portfolioproyect\PortfolioproyectApplication.class
 com\portfolio\portfolioproyect\Security\Entity\Rol.class
 com\portfolio\portfolioproyect\Security\Controller\Mensaje.class
 com\portfolio\portfolioproyect\Security\jwt\JwtEntryPoint.class
+com\portfolio\portfolioproyect\Controller\CExperiencia.class
 com\portfolio\portfolioproyect\Dto\dtoHys.class
 com\portfolio\portfolioproyect\Security\Dto\NuevoUsuario.class
 com\portfolio\portfolioproyect\Controller\CEducacion.class
@@ -19,7 +21,9 @@ com\portfolio\portfolioproyect\Security\Repository\iRolRepository.class
 com\portfolio\portfolioproyect\Security\MainSecurity.class
 com\portfolio\portfolioproyect\Entity\Educacion.class
 com\portfolio\portfolioproyect\Service\SHys.class
+com\portfolio\portfolioproyect\Dto\dtoExperiencia.class
 com\portfolio\portfolioproyect\Service\SEducacion.class
+com\portfolio\portfolioproyect\Entity\Experiencia.class
 com\portfolio\portfolioproyect\Security\Entity\UsuarioPrincipal.class
 com\portfolio\portfolioproyect\Entity\Persona.class
 com\portfolio\portfolioproyect\Security\Enums\RolNombre.class
@@ -30,5 +34,6 @@ com\portfolio\portfolioproyect\Security\Dto\JwtDto.class
 com\portfolio\portfolioproyect\Security\Controller\AuthController.class
 com\portfolio\portfolioproyect\Controller\CHys.class
 com\portfolio\portfolioproyect\Security\Service\UserDetailsImpl.class
+com\portfolio\portfolioproyect\Repository\RExperiencia.class
 com\portfolio\portfolioproyect\Dto\dtoEducacion.class
 com\portfolio\portfolioproyect\Security\Dto\LoginUsuario.class
